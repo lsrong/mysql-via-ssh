@@ -1,0 +1,13 @@
+[ssh]
+host="127.0.0.1"
+user="root"
+port=22
+pwd="123456"
+
+[mysql]
+host="localhost"
+user="root"
+pwd="root"
+port=3306
+database="demo"
+
